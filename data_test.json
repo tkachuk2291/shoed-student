@@ -1,0 +1,184 @@
+{
+  "Author": [
+    {
+      "full_name": "Petro Suvchuk",
+      "specialty": "Software engineering",
+      "profile_description": "I am a 3rd year student at the National Aviation University, majoring in Software Engineering. I have in-depth knowledge of software development, algorithms, data structures, and object-oriented programming.",
+      "rating": 5,
+      "online": true,
+      "last_online": "2024.01.01T02:30:00Z",
+      "image_url": "https://img.freepik.com/free-photo/smiley-man-relaxing-outdoors_23-2148739334.jpg"
+    },
+    {
+      "full_name": "Ivan Andriychuk",
+      "specialty": "Oil and gas engineering and technology",
+      "profile_description": "I am a specialist in oil and gas engineering and technology. I have a high rating and am actively looking for new projects to implement.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.01T03:05:00Z",
+      "image_url": "https://img.freepik.com/free-photo/front-view-of-smiley-man-outdoors-in-the-city_23-2148955558.jpg?size=626&ext=jpg&ga=GA1.1.1908636980.1711929600&semt=ais"
+    },
+    {
+      "full_name": "Petro Kovalchuk",
+      "specialty": "Journalism",
+      "profile_description": "I am a responsible and punctual student who enjoys writing and editing texts. I have in-depth knowledge of Ukrainian language and literature, and I have experience in essay writing, research, and editing. I can help you with any task related to the Ukrainian language, whether it is essay writing, research, editing or proofreading.",
+      "rating": 5,
+      "online": true,
+      "last_online": "2024.01.01T00:00:00Z",
+      "image_url": "https://img.freepik.com/premium-photo/portrait-of-man-with-blonde-hair-relaxing-outdoors_251136-63972.jpg"
+    },
+    {
+      "full_name": "Anton Dibrov",
+      "specialty": "Computer science",
+      "profile_description": "I can help you with any math assignment, whether it's preparing for an exam, solving problems, or writing a term paper. I have in-depth knowledge of math and have experience explaining complex topics in simple terms.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://img.freepik.com/premium-photo/portrait-of-man-in-park_107420-61457.jpg"
+    },
+    {
+      "full_name": "Oleksiy Savko",
+      "specialty": "Cybersecurity and information protection",
+      "profile_description": "I can help you with any programming task, whether it's website development, mobile app development, or scripting. I am proficient in several programming languages and have experience working on various projects.",
+      "rating": 3,
+      "online": true,
+      "last_online": "2024.01.01T00:00:00Z",
+      "image_url": "https://img.freepik.com/premium-photo/portrait-of-young-handsome-bearded-man-relaxing-at-the-park-outdoors_251136-7493.jpg"
+    },
+    {
+      "full_name": "Dmytro Tkachuk",
+      "specialty": "History and archeology",
+      "profile_description": "I can help you with any history assignment, whether it is essay writing, research, or exam preparation. I have in-depth knowledge of Ukrainian and world history, as well as experience working with historical sources.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.01T06:10:00Z",
+      "image_url": "https://img.freepik.com/free-photo/portrait-of-handsome-corporate-man_23-2148336854.jpg"
+    },
+    {
+      "full_name": "Anastasia Savchuk",
+      "specialty": "Design",
+      "profile_description": "I am a creative and imaginative student with a passion for design. I am proficient in various graphic tools and can help you design a logo, visual brand identity, presentation, or social media content. I am always open to new and interesting tasks!",
+      "rating": 2,
+      "online": true,
+      "last_online": "2024.01.01T00:00:00Z",
+      "image_url": "https://tengrinews.kz/userdata/news/2022/news_479513/resize/photo_408771.jpeg"
+    },
+    {
+      "full_name": "Sofia Hrymalyuk",
+      "specialty": "Philology",
+      "profile_description": "I can help you with any translation task, be it text translation, editing or proofreading. I have in-depth knowledge of English and German and have experience working with texts of various subjects.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://encrypted-tbn0.gstatic.com/image_urls?q=tbn:ANd9GcTDcjfdOKWJAxc2NLm-aU_iLsDef-pKzOchTvsQO1vjAtXRtKQB3fj_U_ozN-Nk_VmB-5I&usqp=CAU"
+    },
+    {
+      "full_name": "Sergiy Koval",
+      "specialty": "Physics and astronomy",
+      "profile_description": "I can help you with any physics assignment, whether it's preparing for an exam, solving problems, or writing a term paper. I have in-depth knowledge of physics and have experience explaining complex topics in simple terms.",
+      "rating": 5,
+      "online": true,
+      "last_online": "2024.01.01T00:00:00Z",
+      "image_url": "https://encrypted-tbn0.gstatic.com/image_urls?q=tbn:ANd9GcQRfJPK4veCLmBdL-NIBymrRrdEl4OpHeUcCpwOod9f4A&s"
+    },
+    {
+      "full_name": "Yulia Rymarchuk",
+      "specialty": "Biology",
+      "profile_description": "I can help you with any biology assignment, whether it is conducting laboratory research, writing an essay, or preparing for an exam. I have in-depth knowledge of biology and have experience with various biological objects.",
+      "rating": 1,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://static.tildacdn.com/tild3066-6336-4039-a562-316561313731/pleasant-looking-cau.jpg"
+    },
+    {
+      "full_name": "Mikhail Shymoniuk",
+      "specialty": "Software engineering",
+      "profile_description": "I can help you with any task related to texts, whether it is writing an article, copywriting, editing or proofreading. I have in-depth knowledge of the Ukrainian language and literature, as well as experience in working with texts of various subjects.",
+      "rating": 5,
+      "online": true,
+      "last_online": "2024.01.01T00:00:00Z",
+      "image_url": "https://encrypted-tbn0.gstatic.com/image_urls?q=tbn:ANd9GcSbN9GOrK8kZl6g-qtGFEG-60PuNbcqQROFbSUH5iLNgHLWX-UIfs6ZvJQ2Pxcyq1VRZV0&usqp=CAU"
+    },
+    {
+      "full_name": "Andriy Voytovych",
+      "specialty": "Law",
+      "profile_description": "I can help you with any legal issue, whether it is writing a legal text, consulting on a legal issue, or preparing for an exam. I have in-depth knowledge of jurisprudence and have experience with various legal cases.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/portrait-of-cute-smiling-boy-in-cafe_23-2148436234.jpg?w=1380&t=st=1715434599~exp=1715435199~hmac=49730da5cc3fdae8f92731fcf788f000a284e890f96e2bbee17238137769eb74"
+    },
+    {
+      "full_name": "Ihor Lisovyi ",
+      "specialty": "Computer engineering",
+      "profile_description": "I can help you with any programming assignment, whether it's a lab, a term paper, or a practical assignment. I am proficient in several programming languages and have experience working on various projects.",
+      "rating": 2,
+      "online": true,
+      "last_online": "2024.01.20T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/close-up-of-smiling-boy-with-sportswear-at-dawn_23-2147562116.jpg?w=740&t=st=1715434623~exp=1715435223~hmac=829dd9e7e06f88017a041da90e56bcccb9ff12023260b3944b43983a6189fed4"
+    },
+    {
+      "full_name": "Vasyl Bondar",
+      "specialty": "Philology",
+      "profile_description": "I can help you with any philosophy assignment, whether it's writing an essay, preparing for an exam, or just talking about philosophical topics. I have in-depth knowledge of philosophy and have experience with various philosophical movements.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/handsome-man-indoor_144627-26426.jpg?w=740&t=st=1715434637~exp=1715435237~hmac=5e4d5df362ba5746e94d81bc892c863f32f511b70188c0d09ec9d78431b829d1"
+    },
+    {
+      "full_name": "Viktor Hrymalyuk",
+      "specialty": "Chemistry",
+      "profile_description": "I can help you with any chemistry assignment, whether it is conducting chemical research, writing an essay, or preparing for an exam. I have in-depth knowledge of chemistry and have experience with various chemicals.",
+      "rating": 2,
+      "online": true,
+      "last_online": "2024.01.20T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/portrait-of-handsome-young-man-with-arms-crossed-holding-white-headphone-around-his-neck_23-2148096439.jpg?w=740&t=st=1715434655~exp=1715435255~hmac=a1ec39e0638650599e1069ef87064500d672dbaa555e5b72fbd8a180bb80ecfe"
+    },
+    {
+      "full_name": "Nikita Romaniuk ",
+      "specialty": "Applied mathematics",
+      "profile_description": "I can help you with any math assignment, whether it's preparing for an exam, solving problems, or writing a term paper. I have in-depth knowledge of math and have experience explaining complex topics in simple terms. I can also help you with tasks that require Python programming.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/medium-shot-man-wearing-glasses_23-2149396227.jpg?w=740&t=st=1715434674~exp=1715435274~hmac=023c3be4b21395e6e639a94e96e46e4a3fd9598ec1662623b7a1a67d0f85478c"
+    },
+    {
+      "full_name": "Anton Savchenko",
+      "specialty": "Biology",
+      "profile_description": "I can help you with any biology assignment, whether it's conducting lab research, writing an essay, or preparing for an exam.",
+      "rating": 2,
+      "online": false,
+      "last_online": "2024.01.20T00:00:00Z",
+      "image_url": "http://example.com/photo1.jpg"
+    },
+    {
+      "full_name": "Taras Kovalchuk",
+      "specialty": "Applied physics and nanomaterials",
+      "profile_description": "I can help you with any physics assignment, whether it's preparing for an exam, solving problems, or writing a term paper.",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/medium-shot-smiley-man-posing-outdoors_23-2149557009.jpg?w=740&t=st=1715434697~exp=1715435297~hmac=5ad3369bb37d5c5bd4a1e825d7d2f94957c8e25a93efa3dfec94c393ac26a604"
+    },
+    {
+      "full_name": "Nazar Abramenko",
+      "specialty": "Metallurgy",
+      "profile_description": "I am a 3rd year student at the National Technical University of Ukraine \"KPI\", majoring in Metallurgy. I have in-depth knowledge of metallurgical processes, properties of metals and alloys, and have experience in the laboratory. I am ready to provide assistance in solving metallurgy problems, conducting laboratory research, writing essays and reports. I have a B2 level in translating metallurgy texts from English.\n\nTranslated with www.DeepL.com/Translator (free version)",
+      "rating": 2,
+      "online": true,
+      "last_online": "2024.01.20T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/portrait-of-teenage-boy_23-2148105583.jpg?w=1380&t=st=1715434714~exp=1715435314~hmac=a1d5d56d434812324de6d46e1670032c3c881b31fb4a6da61903e5587f96487d"
+    },
+    {
+      "full_name": "Mykhailo Babich",
+      "specialty": "Philology",
+      "profile_description": "An experienced philologist with a deep knowledge of the Ukrainian language and literature offers essay writing, research, editing, and translation services (English - B2 level). She has experience as an editor of a student newspaper, a winner of a student essay contest, and a tutor in Ukrainian language and literature..",
+      "rating": 4,
+      "online": false,
+      "last_online": "2024.01.02T00:00:00Z",
+      "image_url": "https://img.freepik.com/free-photo/portrait-of-handsome-man-at-night-in-the-city-lights_23-2149024667.jpg?w=740&t=st=1715434735~exp=1715435335~hmac=12a9dfb415e1c33ede7db9b5bf7ffb9bf89d74aa067839dbcd42d89eb64da05c"
+    }
+  ]
+}
